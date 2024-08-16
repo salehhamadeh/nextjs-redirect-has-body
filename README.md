@@ -1,0 +1,1 @@
+# nextjs-redirect-has-body
